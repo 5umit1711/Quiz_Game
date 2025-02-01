@@ -18,7 +18,7 @@ Welcome to the **Quiz Game**! This is a fun and interactive quiz game where you 
 
 ## Installation
 
-1. **Run the following command on your terminal
+1. **Run the following command on your terminal**
 
    ```bash
    git clone https://github.com/your-username/react-project.git
