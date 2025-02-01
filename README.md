@@ -25,6 +25,6 @@ Here are some screenshots of the Quiz Game in action:
 
 ## Demo video
 
-https://drive.google.com/file/d/YOUR_VIDEO_ID/view](https://drive.google.com/file/d/1GQW2nwp8PVgtv-f7P5on67Yp_t1miZdK/view?usp=drive_link
+https://drive.google.com/file/d/1GQW2nwp8PVgtv-f7P5on67Yp_t1miZdK/view?usp=drive_link
 
 
