@@ -14,7 +14,7 @@ const QuizQuestions = ({ score, setScore }) => {
 
     const fetchData = async () => {
         try {
-            const { data } = await axios.get("https://api.jsonserve.com");
+            const { data } = await axios.get("https://cors-anywhere.herokuapp.com/https://api.jsonserve.com/Uw5CrX");
             setQuiz(data.questions[id]);
             console.log(data.questions[id]);
         } catch (error) {
