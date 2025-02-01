@@ -12,8 +12,33 @@ Welcome to the **Quiz Game**! This is a fun and interactive quiz game where you 
 
 ## Tech Stack
 
-- **Frontend**: React.js (or Vanilla JavaScript)
+- **Frontend**: React.js, Tailwind CSS
 - **API**: External API to fetch quiz questions (https://api.jsonserve.com/Uw5CrX/)
+
+# React.js Project
+
+This is a **React.js** project that provides an interactive and dynamic user experience. Follow the instructions below to set up, run, and contribute to the project.
+
+## 📌 Features
+
+- ⚡ Built with **React.js** and **Vite** (if applicable).
+- 🎨 Styled using **Tailwind CSS** / **CSS Modules** / **Styled Components** (modify as per your project).
+- 🔥 Optimized performance with efficient state management (React Context, Redux, Zustand, etc.).
+- 🌍 Fully responsive and mobile-friendly.
+
+---
+
+## Installation
+
+1. **Run the following command on your terminal
+
+   ```bash
+   git clone https://github.com/your-username/react-project.git
+   cd Quiz_Game
+   npm install
+   npm run dev
+
+
 
 ## Screenshots
 
