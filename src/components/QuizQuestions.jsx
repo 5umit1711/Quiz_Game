@@ -58,13 +58,13 @@ const QuizQuestions = ({ score, setScore }) => {
         return (
             <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-200 to-purple-300 p-6 sm:p-10 relative">
                 <div className="absolute top-4 right-4 sm:top-6 sm:right-6 bg-white shadow-lg px-4 sm:px-6 py-2 sm:py-3 rounded-full text-lg font-semibold text-gray-800 border border-gray-300">
-                    🏆 Score: {score}
+                    🏆 Score: {score}/10
                 </div>
                 <div className="bg-white shadow-2xl rounded-xl p-6 sm:p-10 w-full max-w-md sm:max-w-2xl text-center">
                     <h2 className="text-2xl sm:text-3xl font-semibold text-gray-800">
                         You've completed the quiz! 🎉
                     </h2>
-                    <p className="mt-2 text-lg text-gray-600">Final Score: {score}</p>
+                    <p className="mt-2 text-lg text-gray-600">Final Score: {score}/10</p>
                     <button
                         className="mt-6 px-6 sm:px-8 py-3 sm:py-4 bg-indigo-600 text-white text-lg font-semibold rounded-lg shadow-md hover:bg-indigo-700 transition-all duration-300"
                         onClick={handleRestart}
@@ -83,7 +83,7 @@ const QuizQuestions = ({ score, setScore }) => {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-pink-200 to-blue-300 p-4 sm:p-8 relative">
             <div className="absolute top-4 right-4 sm:top-6 sm:right-6 bg-white shadow-lg px-4 sm:px-6 py-2 sm:py-3 rounded-full text-lg font-semibold text-gray-800 border border-gray-300">
-                🏆 Score: {score}
+                🏆 Score: {score}/10
             </div>
 
             <div className="bg-white shadow-2xl rounded-xl p-6 sm:p-12 w-full max-w-lg sm:max-w-3xl text-center max-h-[80vh] overflow-auto">
