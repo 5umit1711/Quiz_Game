@@ -13,7 +13,6 @@ Welcome to the **Quiz Game**! This is a fun and interactive quiz game where you 
 ## Tech Stack
 
 - **Frontend**: React.js (or Vanilla JavaScript)
-- **Backend** (optional): Node.js/Express (if you want a backend)
 - **API**: External API to fetch quiz questions (e.g., [Open Trivia Database](https://api.jsonserve.com/Uw5CrX/))
 
 
