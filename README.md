@@ -19,8 +19,9 @@ Welcome to the **Quiz Game**! This is a fun and interactive quiz game where you 
 
 Here are some screenshots of the Quiz Game in action:
 
-![Quiz Screenshot 1]()
-![Quiz Screenshot 2]()
+![Quiz Screenshot 1](https://github.com/5umit1711/Quiz_Game/blob/fc1876ed6467769ab6f0a6f8182468ed280c0db9/Quiz_Game1.png)
+![Quiz Screenshot 2](https://github.com/5umit1711/Quiz_Game/blob/fc1876ed6467769ab6f0a6f8182468ed280c0db9/Quiz_Game2.png)
+![Quiz Screenshot 2](https://github.com/5umit1711/Quiz_Game/blob/fc1876ed6467769ab6f0a6f8182468ed280c0db9/Quiz_Game3.png)
 
 
 
