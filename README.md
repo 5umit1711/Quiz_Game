@@ -15,7 +15,12 @@ Welcome to the **Quiz Game**! This is a fun and interactive quiz game where you 
 - **Frontend**: React.js (or Vanilla JavaScript)
 - **API**: External API to fetch quiz questions (https://api.jsonserve.com/Uw5CrX/)
 
-## Project Images
-### Home Page
+## Screenshots
+
+Here are some screenshots of the Quiz Game in action:
+
+![Quiz Screenshot 1]()
+![Quiz Screenshot 2]()
+
 
 
