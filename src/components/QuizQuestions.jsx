@@ -14,7 +14,7 @@ const QuizQuestions = ({ score, setScore }) => {
 
     const fetchData = async () => {
         try {
-            const { data } = await axios.get("/api/Uw5CrX");
+            const { data } = await axios.get("https://api.jsonserve.com");
             setQuiz(data.questions[id]);
             console.log(data.questions[id]);
         } catch (error) {
